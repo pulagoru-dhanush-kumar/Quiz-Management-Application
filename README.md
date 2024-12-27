@@ -1,4 +1,3 @@
-Quiz Management Application
 • Built a Java console-based quiz management system with MySQL database integration, implementing CRUD operations
 on quiz questions, secure credential management via properties files, and quiz modules that load questions from the
 database.
