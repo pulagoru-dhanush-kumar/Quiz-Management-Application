@@ -1,7 +1,7 @@
 
 //1.Create properties file UserDetails.txt in file manager
 //2.Create data base name as Dhanushdb in my sql
-//3.Create these 4 classes
+//3.create com.quiz package & Create these 4 classes
 //4.Run Exam File
 package com.quiz;
 import java.io.IOException;
