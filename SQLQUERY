@@ -1,0 +1,2 @@
+create database dhanudb;
+create table quiz(qid int,qd varchar(5000),options varchar(5000),correctoption varchar(2));
